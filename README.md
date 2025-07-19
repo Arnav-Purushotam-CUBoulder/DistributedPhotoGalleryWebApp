@@ -9,7 +9,7 @@ This is a simple web application for uploading and viewing photos. It's built wi
 *   **Backend:**
     *   ![Java](images/java.png)
     *   **Spring Boot**
-    *   **Minio**
+    *   ![MinIO](images/minio.png)
     *   **SQLite**
 *   **Frontend:**
     *   ![HTML5](images/html5.png)
