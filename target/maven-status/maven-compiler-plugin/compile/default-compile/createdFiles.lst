@@ -1,0 +1,5 @@
+com/example/photoapp/MinioService.class
+com/example/photoapp/PhotoAppApplication.class
+com/example/photoapp/PhotoController.class
+com/example/photoapp/PhotoRepository.class
+com/example/photoapp/Photo.class
