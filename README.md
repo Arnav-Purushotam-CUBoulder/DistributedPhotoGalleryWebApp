@@ -2,26 +2,18 @@
 
 This is a simple web application for uploading and viewing photos. It's built with a Java Spring Boot backend and a simple HTML/JavaScript frontend.
 
-![Photo App Screenshot](https://i.imgur.com/your-screenshot.png)
-
-## Features
-
-*   **Upload Photos:** Easily upload your favorite photos.
-*   **View Photos:** View your uploaded photos one by one.
-*   **Random Photo:** Get a random photo from the collection.
-*   **Previous/Next:** Navigate through the photo history.
+![Photo App Screenshot](images/screenshot.png)
 
 ## Technologies Used
 
 *   **Backend:**
-    *   Java
-    *   Spring Boot
-    *   Spring Data JPA
-    *   Minio (for object storage)
-    *   SQLite (for photo indexing)
+    *   ![Java](images/java.png)
+    *   **Spring Boot**
+    *   **Minio**
+    *   **SQLite**
 *   **Frontend:**
-    *   HTML
-    *   JavaScript
+    *   ![HTML5](images/html5.png)
+    *   **JavaScript**
 
 ## Getting Started
 
